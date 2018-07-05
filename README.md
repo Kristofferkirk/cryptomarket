@@ -1,2 +1,2 @@
 # cryptomarket
-A simple site for displaying information about cryptocurrencies.
+A simple site for displaying information about crypto-currencies.
